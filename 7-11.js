@@ -9,6 +9,7 @@
  * - Your `facebookProfile` object should have the `postMessage()`, `deleteMessage()`, `addFriend()` and `removeFriend()` method
  * - Carefully implement the desired functionality of each method, as decribed above
  */
+ // I'm chaging stuffffffff!
 
 
 // TIP -
